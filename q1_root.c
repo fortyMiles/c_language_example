@@ -3,7 +3,7 @@
 
 /***
 
-This is an example to calculate how the distance of a to g.
+This is an example about how to calculate the distance of a to g.
 
 (a)               (b)
 -------------------
